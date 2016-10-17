@@ -18,27 +18,34 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
-
+  Perfect your Pair
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title. Perfect Your Pair allows all Hack Reactor students to find and match with the best pair possible for pair programming sprints.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  Perfect Your Pair is a web application where users scroll through a vertical feed that consists of 
+  the profiles of other students in their Hack Reactor Cohort! Each profile contains a bio that has details on skills, interests, and programming type(conjurer or scribe). If a User sees a profile they enjoy, they can like the profile, and if the feeling is mutual, the people will be matched and have access to the same chat where they can plan their next sprint!
 
 ## Problem ##
   > Describe the problem your product solves.
+  People hate having to search for a partner for a sprint right as everyone else is starting to work on theirs. Even worse, people often have horrible pairs which can last up to four days!
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  Perfect Your Pair allows users to forgoe the hassel of searching for a partner at the closing bell, while giving users the ability to see what their possible pair is really like, before diving into code with them.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  "Try Perfect Your Pair, you won't regret it."
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Simply go to LocalHost2000, enter your name, and get started!
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-
+  "I though I would be stuck in pairing partner hell, then I used Perfect Your Pair and everything changed."
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Head over to LocalHost2000 and see the difference we can really make!
