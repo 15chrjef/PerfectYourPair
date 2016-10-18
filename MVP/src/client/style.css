@@ -1,4 +1,4 @@
- @font-face { font-family: Chalet; src: url('ChaletLondonNineteenSeventy.ttf'); } 
+ @font-face { : Chalet; src: url('ChaletLondonNineteenSeventy.ttf'); } 
 
 .profile{
   border-style: solid;
@@ -12,6 +12,7 @@
   align-content: space-around;
   margin-top: 10px;
   border-radius: 5px;
+  box-shadow: 3px 3px 3px grey;
 }
 
 .profInner{
@@ -26,11 +27,10 @@
   width: 60vw;
   margin-left: 20%;
   background-color: #F8F8F8;
-    font-family: Chalet, sans-serif;
-
-}
+  font-family: 'Sorts Mill Goudy', serif;}
 
 .gone{
+  box-shadow: 5px 5px 3px grey;
   border-radius: 5px;
   border-style: solid;
   margin-top: 10px;
@@ -48,6 +48,7 @@
 }
 
 .pic {
+  border-radius: 5px;
   margin-top: 10px;
   height: 450px;
   width: 25vw;
@@ -62,6 +63,7 @@
 } 
 
 .textb{
+  border-radius: 5px;
   border-style: solid;
   border-width: 1px;
   width: 20vw;
@@ -72,8 +74,7 @@
   border-color: #428bca;
   display: flex;
   align-items: center;
-  font-family: Chalet, sans-serif;
-  font-size: 20px;
+  font-family: 'Sorts Mill Goudy', serif;  font-size: 17px;
 }
 
 .selecty{
@@ -82,7 +83,6 @@ height:33px;
 margin: 0 auto;
 display: flex;
 cursor: pointer;
-font-family: Chalet, sans-serif;
 }
 
 .none{
@@ -90,7 +90,7 @@ font-family: Chalet, sans-serif;
 }
 
 .submit{
-width: 10vw;
+  width: 10vw;
 }
 
 .submit:hover{
