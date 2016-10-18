@@ -1,0 +1,123 @@
+ @font-face { font-family: Chalet; src: url('ChaletLondonNineteenSeventy.ttf'); } 
+
+.profile{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #428bca;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: space-around;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.profInner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.border{
+  justify-content: space-between;
+  width: 60vw;
+  margin-left: 20%;
+  background-color: #F8F8F8;
+    font-family: Chalet, sans-serif;
+
+}
+
+.gone{
+  border-radius: 5px;
+  border-style: solid;
+  margin-top: 10px;
+  border-width: 1px;
+  border-color: #428bca;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: space-around;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 1s, opacity 1s linear;
+}
+
+.pic {
+  margin-top: 10px;
+  height: 450px;
+  width: 25vw;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  align-self: center
+} 
+
+.textb{
+  border-style: solid;
+  border-width: 1px;
+  width: 20vw;
+  height: 450px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;  
+  border-color: #428bca;
+  display: flex;
+  align-items: center;
+  font-family: Chalet, sans-serif;
+  font-size: 20px;
+}
+
+.selecty{
+justify-content: center;
+height:33px;
+margin: 0 auto;
+display: flex;
+cursor: pointer;
+font-family: Chalet, sans-serif;
+}
+
+.none{
+  display: none;
+}
+
+.submit{
+width: 10vw;
+}
+
+.submit:hover{
+  transition-property: color;
+  transition-property: background-color;
+  transition-duration: .5s;
+  color: white;
+  background-color: #428bca;
+  cursor: pointer;
+}
+
+.btnDiv{
+  margin-bottom: 20px;
+}
+/*HOVER CSS***************/
+/* Float Shadow */
+.glow {
+  display: inline-block;
+  vertical-align: middle;
+  box-shadow: 0 0 1px #428bca;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  left: 0;
+  transition: all .3s 
+}
+.glow:hover, .glow:focus, .glow:active {
+  box-shadow: 0 0 8px #428bca;
+  left: 0;
+}
