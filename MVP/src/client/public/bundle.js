@@ -112,26 +112,26 @@
 	      }).catch(function (err) {
 	        console.log(err);
 	      });
-	      // images.forEach(function(person) {
-	      //   var name = person.name;
-	      //   var bio = person.bio;
-	      //   var picture = person.picture;
-	      //   var style = person.style;
-	      //   var obj = {
-	      //     name: name,
-	      //     bio: bio,
-	      //     picture: picture,
-	      //     style: style
-	      //   };
+	      //   images.forEach(function(person) {
+	      //     var name = person.name;
+	      //     var bio = person.bio;
+	      //     var picture = person.picture;
+	      //     var style = person.style;
+	      //     var obj = {
+	      //       name: name,
+	      //       bio: bio,
+	      //       picture: picture,
+	      //       style: style
+	      //     };
 	
-	      //   axios.post('/api', obj)
-	      //   .then(function(response) {
-	      //     console.log('photoTransfer complete!' + response);
-	      //   })
-	      //   .catch(function(err) {
-	      //     console.log(err);
+	      //     axios.post('/api', obj)
+	      //     .then(function(response) {
+	      //       console.log('photoTransfer complete!' + response);
+	      //     })
+	      //     .catch(function(err) {
+	      //       console.log(err);
+	      //     });
 	      //   });
-	      // });
 	    }
 	  }, {
 	    key: 'handleChange',
@@ -43453,10 +43453,10 @@
 	  picture: 'https://mail.google.com/mail/u/0/?ui=2&ik=d392a5471a&view=fimg&th=156f1a7b108647dd&attid=0.1&disp=emb&realattid=ii_isnmcap70_156f1a794d298a6b&attbid=ANGjdJ-h2VCyMWg3ZMeXQ1eSyrUkWduZtE7uU9j2UwXFu0VRQyTPItvlSVTiRezKauTPFUPgm8t67CZGfmnObehE7aQtP71kCv-9Aw_bi2_QmWCJMB1W2yYjtvffQv8&sz=w964-h724&ats=1476748681745&rm=156f1a7b108647dd&zw&atsh=1',
 	  style: 'scribe'
 	}, {
-	  name: ' Miles Smith',
+	  name: 'Miles Smith',
 	  bio: "Before Hack Reactor I was working in Financial Services, helping families set up 401ks, Annuities, Life Insurance, and other forms of investment products. After working in such an archaic industry I realized I wanted to work somewhere where my mind was challenged on a daily basis and the work constantly changes which is what led me to Software Engineering.",
-	  picture: 'https://plus.google.com/u/0/_/focus/photos/public/AIbEiAIAAABDCJaClI684OO9TiILdmNhcmRfcGhvdG8qKDkwMTQyYTdiZmRmMDNjZmNjZTM2OTJhM2Q0OTY4MGU1MjJjMzg4NjIwAZnK4X1ANxLFh0Wvvx8SqVWilmN_?sz=64',
-	  style: 'scribe'
+	  picture: 'https://files.slack.com/files-pri/T17PETGBH-F2R0B12PL/img_0599.jpg',
+	  style: 'conjurer'
 	}, {
 	  name: 'Matthew Vincent',
 	  bio: "I'm super interested in UI/UX development and making computers easier and more fun to interact with. My current favorite UIs are the Google Inbox app (which I'm currently using) and HBO go for Apple TV. I would love to build an Apple TV App.",

@@ -32,10 +32,10 @@ var images = [
     style: 'scribe'  
   },
   {
-    name: ' Miles Smith',
+    name: 'Miles Smith',
     bio: "Before Hack Reactor I was working in Financial Services, helping families set up 401ks, Annuities, Life Insurance, and other forms of investment products. After working in such an archaic industry I realized I wanted to work somewhere where my mind was challenged on a daily basis and the work constantly changes which is what led me to Software Engineering.",
-    picture: 'https://plus.google.com/u/0/_/focus/photos/public/AIbEiAIAAABDCJaClI684OO9TiILdmNhcmRfcGhvdG8qKDkwMTQyYTdiZmRmMDNjZmNjZTM2OTJhM2Q0OTY4MGU1MjJjMzg4NjIwAZnK4X1ANxLFh0Wvvx8SqVWilmN_?sz=64',
-    style: 'scribe'  
+    picture: 'https://files.slack.com/files-pri/T17PETGBH-F2R0B12PL/img_0599.jpg',
+    style: 'conjurer'  
   },
   {
     name: 'Matthew Vincent',

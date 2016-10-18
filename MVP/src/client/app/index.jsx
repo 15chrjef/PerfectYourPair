@@ -29,26 +29,26 @@ class App extends React.Component {
       .catch(function(err) {
         console.log(err);
       });
-    // images.forEach(function(person) {
-    //   var name = person.name;
-    //   var bio = person.bio;
-    //   var picture = person.picture;
-    //   var style = person.style;
-    //   var obj = {
-    //     name: name,
-    //     bio: bio,
-    //     picture: picture,
-    //     style: style
-    //   };
+  //   images.forEach(function(person) {
+  //     var name = person.name;
+  //     var bio = person.bio;
+  //     var picture = person.picture;
+  //     var style = person.style;
+  //     var obj = {
+  //       name: name,
+  //       bio: bio,
+  //       picture: picture,
+  //       style: style
+  //     };
 
-    //   axios.post('/api', obj)
-    //   .then(function(response) {
-    //     console.log('photoTransfer complete!' + response);
-    //   })
-    //   .catch(function(err) {
-    //     console.log(err);
-    //   });
-    // });
+  //     axios.post('/api', obj)
+  //     .then(function(response) {
+  //       console.log('photoTransfer complete!' + response);
+  //     })
+  //     .catch(function(err) {
+  //       console.log(err);
+  //     });
+  //   });
   }
   handleChange(e) {
     var style = e.target.value;

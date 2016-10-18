@@ -1,7 +1,8 @@
 var mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost/2016/09/mvp');
-
+mongoose.connect('mongodb://eljefe:theboss@ds029665.mlab.com:29665/perfectyourpair');
+//eljefe
+//theboss
 var Schema = mongoose.Schema;
 
 var ProfileSchema = new Schema({
