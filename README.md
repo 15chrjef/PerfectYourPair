@@ -4,8 +4,8 @@ Perfect your Pair is a social application that allows programmers to decide who 
 TO LAUNCH:
 
 1). Download and clone repo
-2). change directories into the MVP folder with 'cd MVP'
-3). install npm packages with 'npm i'
-4). start client with "webpack -d --watch",
-5). start server with "nodemon server.js"
-6). go to local host at shown port and enjoy!
+2). Change directories into the MVP folder with 'cd MVP'
+3). Install npm packages with 'npm i'
+4). Start client with "webpack -d --watch",
+5). Start server with "nodemon server.js"
+6). Go to local host at shown port and enjoy!
